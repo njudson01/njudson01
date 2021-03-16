@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @njudson01
+- 👀 I’m interested in analytics, pipelines, and strategy
+- 📫 How to reach me: nick.judson.10@gmail.com
